@@ -1,1 +1,11 @@
+# Byte-compiled / Optimized / DLL (Dynamic Link Library)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+.env
+
+.vscode
 .idea
